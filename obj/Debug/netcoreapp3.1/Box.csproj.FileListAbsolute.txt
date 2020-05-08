@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\bin\Debug\netcoreapp3.1\Box.exe
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\bin\Debug\netcoreapp3.1\Box.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\bin\Debug\netcoreapp3.1\Box.dll
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\bin\Debug\netcoreapp3.1\Box.pdb
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\obj\Debug\netcoreapp3.1\Box.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\obj\Debug\netcoreapp3.1\Box.dll
+C:\Users\Maria Luiza\Documents\Luiza\Box\Box\obj\Debug\netcoreapp3.1\Box.pdb
